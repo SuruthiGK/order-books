@@ -9,9 +9,11 @@ dep ensure -v
 dep init -v
 
 ## To Run
-cd cmd/orderBooks
-go build
-./orderBooks
+```sh
+  cd cmd/orderBooks
+  go build
+  ./orderBooks
+``` 
+## To view Output
 
-##Output
-OrderBooks prinited in the terminal
+Order Books prinited in the terminal
